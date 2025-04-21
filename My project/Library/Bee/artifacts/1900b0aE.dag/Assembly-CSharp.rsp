@@ -399,6 +399,7 @@
 "Assets/ModDante/ActivateAudioClip.cs"
 "Assets/ModDante/FogIntensifier.cs"
 "Assets/Prefabs/ColoniaAssets/TotemAudioRandomizer.cs"
+"Assets/Scripts/ColliderVisibilityOptimizer.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/General/Asteroid.cs"
 "Assets/Scripts/General/AsteroidBelt.cs"
