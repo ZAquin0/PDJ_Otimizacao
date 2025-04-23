@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":181.134521484375,"y":-100.45005798339844,"z":-27.02769660949707},"rotation":{"x":0.02864927612245083,"y":-0.9717393517494202,"z":0.1650822013616562,"w":0.1674686223268509},"size":305.2568359375,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":309.59906005859377,"y":1120.6529541015625,"z":-2495.42578125},"rotation":{"x":0.02864927612245083,"y":-0.9717393517494202,"z":0.1650822013616562,"w":0.1674686223268509},"size":5315.986328125,"orthographic":false}
+>>>>>>> Otimizacao_UI

@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: 02b28f08b4ed0c34f8ee2a5b0aade31a
+  m_OcclusionCullingData: {fileID: 36300000, guid: 768c3518c30fa424fa0fe54d2d792a93, type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -17921,6 +17921,14 @@ PrefabInstance:
       propertyPath: playerShip
       value: 
       objectReference: {fileID: 1957101141}
+    - target: {fileID: 2732584970464397936, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732584970719701896, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2732584970943445372, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -17933,6 +17941,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2732584971296582958, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732584971644976857, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732584971667987393, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2732584971744218466, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -17943,6 +17963,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2732584971942582665, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732584971982906601, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2732584971982906606, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
@@ -18056,6 +18080,10 @@ PrefabInstance:
     - target: {fileID: 2732584971984158095, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
       propertyPath: m_Name
       value: PlanetCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2732584972159012132, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2732584972454472125, guid: c7812e2c5b5cc9a4cbb82a745a6951db, type: 3}
       propertyPath: m_AnchoredPosition.y
