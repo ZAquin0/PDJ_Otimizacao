@@ -1923,6 +1923,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 475966438190433720, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 475966438583502735, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
       propertyPath: m_fontSize
       value: 42.1
@@ -1935,6 +1939,10 @@ PrefabInstance:
       propertyPath: m_sharedMaterial
       value: 
       objectReference: {fileID: -1813102190294347665, guid: 829cbc550b9e9af4e94fd7bbcb50218e, type: 2}
+    - target: {fileID: 475966439290391369, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 475966439457600457, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -2055,6 +2063,10 @@ PrefabInstance:
       propertyPath: m_sharedMaterial
       value: 
       objectReference: {fileID: -1813102190294347665, guid: 829cbc550b9e9af4e94fd7bbcb50218e, type: 2}
+    - target: {fileID: 4723330609270796549, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5509062068479692910, guid: 06d8936147095fc4ab09d8ed90f23262, type: 3}
       propertyPath: m_IsActive
       value: 0
